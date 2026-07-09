@@ -3,10 +3,10 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-Day1
-Day3
-day4
-LeapYear
+src/Day1
+src/Day3
+src/day4
+src/LeapYear
 
 ### Eclipse ###
 .apt_generated
